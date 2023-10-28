@@ -2,4 +2,4 @@
 
 openwrt生成
 
- 脚本来自[**P3TERX**](
+ 脚本来自[**P3TERX**](https://p3terx.com)
